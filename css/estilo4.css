@@ -1,0 +1,43 @@
+*
+{
+  margin:10px; 
+  padding:10px;
+}
+body
+{
+  background-color:yellow;
+}
+
+header 
+{
+  height:100px;
+  background-color:pink;
+}
+
+nav
+{
+  height:30px;
+  background-color:red;
+}
+
+section
+{
+  height:250px;width:70%;
+  background-color:blue;
+  float:left;
+}
+
+aside
+{
+  height:250px;
+  width:25%;
+  background-color:blue;
+  float:right;
+}
+
+footer
+{
+  height:30px;
+  background-color:green;
+  float:bottom;
+}

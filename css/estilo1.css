@@ -1,0 +1,17 @@
+*
+
+
+body
+{
+ background-color:yellow;
+}
+h1
+{ 
+ color:red;
+}
+p
+{
+ color:#0000ff;
+ text-decoration:underline;
+ margin:20px
+}
